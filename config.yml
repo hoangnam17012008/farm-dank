@@ -12,8 +12,8 @@
 clusters:
   default:
     master:
-      token: "ODY1MDQxNTY3MDAxMDgzOTE2.YTv2vw.kUv5ePHzqqD4pP7nZkAnv8HYRAA"
-      channel_id: "868800161114099735"
+      token: "TOKEN"
+      channel_id: "CHANNEL_ID"
 
 shifts:
   - state: "active"
